@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">My Personality</string>
+    <string name="perso_a">Tu Personalidad Es:\n\n
+        Eres una mente brillante llena de ideas creativas que ama
+        innovar y que lleva a cabo cualquier proyecto hasta alcanzar el éxito, odias las mentiras
+        y que las personas quieran jugar contigo y detestas las traiciones, sabes bien que quieres
+        porque tratas de escuchar a tu corazón junto a la razón para tomar buenas decisiones,
+        probablemente seas alguien asertivo que sabes cuando y donde reclamar tus derechos y
+        respetar los derechos de los demás.</string>
+    <string name="perso_b">Tu Personalidad Es:\n\n
+        Eres una persona que no anda con rodeos y prefieres siempre decir la verdad antes que
+        engañar o mentir, odias la hipocresía, eres alguien con quien se puede disfrutar de una
+        conversación de cualquier tema, actualmente estás en busca de algún objetivo ya sea un
+        titulo, un ascenso o una nueva relación, tal ves no los has considerado del todo pero
+        estas a punto de tomar la decisión de ir a por ello.</string>
+    <string name="perso_c">Tu Personalidad Es:\n\n
+        Eres una persona que tienes muchos amigos y que siempre esta allí para apoyarlos ante 
+        cualquier situación, crees que al mundo le hace falta mas cooperación, tienes una mente 
+        un tanto divergente, te gustan los ambientes naturales, tratas de ver el lado bueno de 
+        las cosas aunque tampoco ignoras las cosas desagradables.
+    </string>
+
+    <string name="tituloprincipal">¿Qué Ves?</string>
+    <string name="pregunta1A">A. Unas Aves</string>
+    <string name="pregunta1B">B. Una Mujer</string>
+    <string name="pregunta1C">C. Un Árbol</string>
+
+    <string name="pregunta2A">A. Flores</string>
+    <string name="pregunta2B">B. Dos Rostros De Perfil</string>
+    <string name="pregunta2C">C. Un Rostro De Frente</string>
+
+    <string name="pregunta3A">A. Unas Aves</string>
+    <string name="pregunta3B">B. Una Mujer</string>
+    <string name="pregunta3C">C. Cielo</string>
+
+    <string name="pregunta4A">A. Un Árbol</string>
+    <string name="pregunta4B">B. Dos Rostros</string>
+    <string name="pregunta4C">C. Atardecer</string>
+
+    <string name="pregunta5A">A. Un Perro</string>
+    <string name="pregunta5B">B. Una Mujer</string>
+    <string name="pregunta5C">C. Flores Y Hojas</string>
+
+    <string name="pregunta6A">A. Dos Ardillas</string>
+    <string name="pregunta6B">B. Un Rostro</string>
+    <string name="pregunta6C">C. Árbol</string>
+
+    <string name="pregunta7A">A. Árboles Y Un Río</string>
+    <string name="pregunta7B">B. Una Mujer</string>
+    <string name="pregunta7C">C. Bosque</string>
+
+    <string name="empezar">Empezar</string>
+    <string name="acercade">Acerca De</string>
+
+    <string name="tupersonalidad">Tu personalidad Es:</string>
+
+    <string name="regresar">Regresar</string>
+
+</resources>
